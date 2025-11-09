@@ -19,7 +19,7 @@ function App() {
       <h1>Vite + React</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
-          CICD CHECK VERCEL {count}
+          COUNT CI/CD {count}
         </button>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
